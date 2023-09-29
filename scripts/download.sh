@@ -1,0 +1,1 @@
+python download_images.py --input_shards "https://storage.googleapis.com/ai2-jackh-mmc4-public/data/docs_no_face_shard_{0..10}_v2.jsonl.zip" --output_image_dir /project/hnguyen2/hqvo2/Projects/Datasets/all_original_data/mmc4
